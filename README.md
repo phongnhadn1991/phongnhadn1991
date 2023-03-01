@@ -1,5 +1,5 @@
 ### Hi there 👋
-##### I'm a Fullstack developer in Da Nang, Vietnam.
+##### I'm a Frontend developer in Da Nang, Vietnam.
 
 - 🔭 I’m currently working at [Concrete](https://concrete-corp.com/)
 - 🌱 I have learned [ReactJs](https://reactjs.org/), [Next.js](https://nextjs.org/), [Docker](https://www.docker.com/)
